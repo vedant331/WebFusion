@@ -270,7 +270,7 @@ section .main .button:hover i {
 /*About*/
 
 .about {
-    width: 100%;
+    width: 70%;
     height: 100vh;
     padding: 35px 0;
 }
